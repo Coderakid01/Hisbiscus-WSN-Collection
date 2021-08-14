@@ -5,7 +5,7 @@ Collection of Simple Wireless Sensor Network Project using ESP NOW with Built in
   <p align="center"><img src="https://github.com/Coderakid01/Medias/blob/main/cover1.jpg" width="900"></a></p>
   
   </br>
-<h3>Credits for these awesome people for creating this awesome products and also my lecturers! 😎</h3>
+<h3>Credits for these awesome people for creating this awesome products and also my lecturers!</h3>
 
 <ul>
   <li> My Awesome Lecturers from KKTMPJ 😎 </li>
