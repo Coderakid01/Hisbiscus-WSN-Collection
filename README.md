@@ -6,3 +6,14 @@ Collection of Simple Wireless Sensor Network Project using ESP NOW with Built in
   
   </br>
   >Within this WSN Project Collection Tutorial you will able to construct a simple WSN System.
+  
+<h3>Credits for these awesome people for creating this awesome products and also my lecturers! 😎</h3>
+
+<ul>
+  <li> My Awesome Lecturers from KKTMPJ 😎 </li>
+  <li> MyDuino.com  (En Ariffin Zulkifli and the Team)</li>
+</ul>
+
+</br>
+
+<footer> #iotuntuksemua #producernation #generationiot </footer>
