@@ -6,7 +6,7 @@ Collection of Simple Wireless Sensor Network Project using ESP NOW with Built in
   
   </br>
   
-   <h3>In this collection commonly we will be using Hibiscus Sense either 1 or more</h3>
+   <h3>In this collection commonly we will be using Hibiscus Sense either 1 or more for every tutorial. yes 100% Hibiscus only but feel free to modify this code and addon more hardware for your own convinience.</h3>
   <li>Hibiscus Sense. <b><a href="https://myduino.com/product/myd-036/" target="_blank"> Click here to buy Hibiscus Sense</a></b></li>
   
   </br>
